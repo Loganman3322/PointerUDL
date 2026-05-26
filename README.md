@@ -10,3 +10,5 @@ Discord: loganman3322_89741
 YT: Loganman3322 [GD] or @LJB2012 :)
 
 Mod submissions soon maybe?
+
+We get our placement info from Pointercrate, UDL, Player Personal Rankings, ILL, and THAL (The Hardest Achievements Lists)
