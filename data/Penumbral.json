@@ -8,5 +8,27 @@
     "percentToQualify": "80",
     "password": "Free To Copy",
     "records": [
+
+        {
+            "user": "dovv1n",
+            "link": "https://www.youtube.com/watch?v=ZyRmgwSh5tQ",
+            "percent": 100,
+            "hz": 360
+        },
+		
+        {
+            "user": "SerVax",
+            "link": "https://www.youtube.com/watch?v=MmtHzbln7pk",
+            "percent": 100,
+            "hz": 360
+        },
+		
+        {
+            "user": "Zoink",
+            "link": "https://www.youtube.com/watch?v=nxPyVq6my3w",
+            "percent": 100,
+            "hz": 360
+        }
+        
     ]
 }
