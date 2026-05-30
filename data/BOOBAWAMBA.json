@@ -8,5 +8,41 @@
     "percentToQualify": "63",
     "password": "Free To Copy",
     "records": [
+
+        {
+            "user": "agonom",
+            "link": "https://www.youtube.com/watch?v=HMoe9mM3_Zw",
+            "percent": 100,
+            "hz": 360
+        },
+		
+        {
+            "user": "Vorten",
+            "link": "https://www.youtube.com/watch?v=ajHERHT_DEE",
+            "percent": 100,
+            "hz": 360
+        },
+		
+        {
+            "user": "cbrem",
+            "link": "https://www.youtube.com/watch?v=KDsCVyWbG3w",
+            "percent": 100,
+            "hz": 360
+        },
+		
+        {
+            "user": "Zoink",
+            "link": "https://www.youtube.com/watch?v=DXV7CVkos7I",
+            "percent": 100,
+            "hz": 360
+        },
+		
+        {
+            "user": "wPopoff",
+            "link": "https://www.youtube.com/watch?v=kI7WTN1FIxQ",
+            "percent": 100,
+            "hz": 360
+        }
+        
     ]
 }
