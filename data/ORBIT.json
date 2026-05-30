@@ -8,5 +8,25 @@
     "percentToQualify": "65",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "dovv1n",
+            "link": "https://www.youtube.com/watch?v=0QYibxUS3rA",
+            "percent": 100,
+            "hz": 360
+        },
+		
+        {
+            "user": "PH23NIX",
+            "link": "https://www.youtube.com/watch?v=-NrOlPqIYfE",
+            "percent": 77,
+            "hz": 360
+        },
+
+        {
+            "user": "Thelifinof",
+            "link": "https://www.youtube.com/watch?v=wCgPhp6AEgY",
+            "percent": 65,
+            "hz": 360
+        }
     ]
 }
