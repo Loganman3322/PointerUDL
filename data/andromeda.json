@@ -8,5 +8,167 @@
     "percentToQualify": "66",
     "password": "Free To Copy",
     "records": [
+
+        {
+            "user": "Zoink",
+            "link": "https://www.youtube.com/watch?v=iI0hymTllo0",
+            "percent": 100,
+            "hz": 360
+        },
+		
+        {
+            "user": "w3rty",
+            "link": "https://www.youtube.com/watch?v=vI28nQFN9C4",
+            "percent": 100,
+            "hz": 360
+        },
+		
+        {
+            "user": "Nickname09",
+            "link": "https://www.youtube.com/watch?v=70DK4hNHO4g",
+            "percent": 100,
+            "hz": 360
+        },
+		
+        {
+            "user": "GuillExprex52",
+            "link": "https://www.youtube.com/watch?v=DyCMsf2OBR4",
+            "percent": 100,
+            "hz": 360
+        },
+		
+        {
+            "user": "A6",
+            "link": "https://www.youtube.com/watch?v=yfXrv702bmU",
+            "percent": 100,
+            "hz": 360
+        },
+		
+        {
+            "user": "Hqmy",
+            "link": "https://www.youtube.com/watch?v=rJFVdxUqSFo",
+            "percent": 100,
+            "hz": 360
+        },
+		
+        {
+            "user": "Jerpaa",
+            "link": "https://www.youtube.com/watch?v=yoqY5Rzx9Us",
+            "percent": 100,
+            "hz": 360
+        },
+		
+        {
+            "user": "wPopoff",
+            "link": "https://www.youtube.com/watch?v=hv6-C_2VWI0",
+            "percent": 100,
+            "hz": 360
+        },
+		
+        {
+            "user": "VERTOP",
+            "link": "https://www.youtube.com/watch?v=yc3PcOfPZqo",
+            "percent": 100,
+            "hz": 360
+        },
+		
+        {
+            "user": "DibiiziCookie",
+            "link": "https://www.youtube.com/watch?v=rq_j104P8DQ",
+            "percent": 100,
+            "hz": 360
+        },
+		
+        {
+            "user": "Laniakea",
+            "link": "https://www.youtube.com/watch?v=zLJYZYBolcc",
+            "percent": 100,
+            "hz": 360
+        },
+		
+        {
+            "user": "ChopBlox",
+            "link": "https://www.youtube.com/watch?v=0K8O00bmv30",
+            "percent": 100,
+            "hz": 360
+        },
+		
+        {
+            "user": "dovv1n",
+            "link": "https://www.youtube.com/watch?v=4_U5U8XMR4c,
+            "percent": 100,
+            "hz": 360
+        },
+		
+        {
+            "user": "Netermind",
+            "link": "https://www.youtube.com/watch?v=HGU-NJ_Ud3s",
+            "percent": 100,
+            "hz": 360
+        },
+		
+        {
+            "user": "pizi",
+            "link": "https://www.youtube.com/watch?v=sKsxxHpjeXg",
+            "percent": 100,
+            "hz": 360
+        },
+		
+        {
+            "user": "Zeroxy",
+            "link": "https://www.youtube.com/watch?v=CFb4NAfgOIU",
+            "percent": 100,
+            "hz": 360
+        },
+		
+        {
+            "user": "cudby",
+            "link": "https://www.youtube.com/watch?v=tsIaeFGtt2I",
+            "percent": 100,
+            "hz": 360
+        },
+		
+        {
+            "user": "Slaughter",
+            "link": "https://www.youtube.com/watch?v=LTd7zNrqXLA",
+            "percent": 100,
+            "hz": 360
+        },
+		
+        {
+            "user": "Rain",
+            "link": "https://www.youtube.com/watch?v=y4sffpcDOII",
+            "percent": 100,
+            "hz": 360
+        },
+		
+        {
+            "user": "DeividG",
+            "link": "https://www.youtube.com/watch?v=OSLSecQKCZM",
+            "percent": 91,
+            "hz": 360
+        },
+		
+        {
+            "user": "Sharkified",
+            "link": "https://www.youtube.com/watch?v=vAC-fPN81xw",
+            "percent": 70,
+            "hz": 360
+        },
+		
+        {
+            "user": "su",
+            "link": "https://www.youtube.com/watch?v=_6Jj5u8P75E",
+            "percent": 91,
+            "hz": 360
+        },
+		
+        {
+            "user": "brite",
+            "link": "https://www.youtube.com/watch?v=B8iB2MB9Xw8",
+            "percent": 70,
+            "hz": 360
+        }
+        
     ]
 }
