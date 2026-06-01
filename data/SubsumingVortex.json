@@ -1,0 +1,69 @@
+{
+    "id": 127997391,
+    "name": "Subsuming Vortex",
+    "author": "SeptaGon7",
+    "creators": [],
+    "verifier": "Cursed",
+    "verification": "https://www.youtube.com/watch?v=0eYG1ogJpIQ",
+    "percentToQualify": "66",
+    "password": "Free To Copy",
+    "records": [
+
+        {
+            "user": "Zoink",
+            "link": "https://www.youtube.com/watch?v=r4Bh5pkVs-M",
+            "percent": 100,
+            "hz": 360
+        },
+
+        {
+            "user": "A6",
+            "link": "https://www.youtube.com/watch?v=BQcxSX8CthM",
+            "percent": 100,
+            "hz": 360
+        },
+		
+        {
+            "user": "LAMINGTON",
+            "link": "https://www.youtube.com/watch?v=s98wyRZn5TA",
+            "percent": 100,
+            "hz": 360
+        },
+		
+        {
+            "user": "Rodmentor",
+            "link": "https://www.youtube.com/watch?v=NQU0kpl6YxE",
+            "percent": 100,
+            "hz": 360
+        },
+		
+        {
+            "user": "weyolll3",
+            "link": "https://www.youtube.com/watch?v=oso6-DfDdN0",
+            "percent": 100,
+            "hz": 360
+        },
+
+        {
+            "user": "wPopoff",
+            "link": "https://www.youtube.com/watch?v=qIWVVH4v96Y",
+            "percent": 100,
+            "hz": 360
+        },
+		
+        {
+            "user": "Beto",
+            "link": "https://www.youtube.com/watch?v=9pQQpReokv0",
+            "percent": 100,
+            "hz": 360
+        },
+		
+        {
+            "user": "Wity",
+            "link": "https://www.youtube.com/watch?v=8Ve0baF1T-Q",
+            "percent": 73,
+            "hz": 360
+        }
+
+    ]
+}
