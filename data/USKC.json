@@ -1,0 +1,48 @@
+{
+    "id": 10887708,
+    "name": "Sakupen Circles (Unnerfed)",
+    "author": "nick24",
+    "creators": [],
+    "verifier": "ad3usgmd",
+    "verification": "https://www.youtube.com/watch?v=AdrmZsy52EY",
+    "percentToQualify": "69",
+    "password": "Free To Copy",
+    "records": [
+
+        {
+            "user": "ROZE",
+            "link": "https://www.youtube.com/watch?v=sxqgZh4sLb8",
+            "percent": 100,
+            "hz": 360
+        },
+
+        {
+            "user": "TotalGD",
+            "link": "https://www.youtube.com/watch?v=TY3DB4M8tgA",
+            "percent": 100,
+            "hz": 360
+        },
+		
+        {
+            "user": "Emp",
+            "link": "https://www.youtube.com/watch?v=xOQ0O-Oh6Ys",
+            "percent": 76,
+            "hz": 360
+        },
+		
+        {
+            "user": "galbeni7",
+            "link": "https://www.youtube.com/watch?v=dAvDNq-3-OU",
+            "percent": 69,
+            "hz": 360
+        },
+		
+        {
+            "user": "skylar",
+            "link": "https://www.youtube.com/watch?v=tcc5tFygOKQ",
+            "percent": 69,
+            "hz": 360
+        }
+
+    ]
+}
