@@ -50,18 +50,18 @@
             "percent": 100,
             "hz": 360
         },
+
+        {
+            "user": "benbotwyd",
+            "link": "https://www.youtube.com/watch?v=zbnAxEAwphU",
+            "percent": 100,
+            "hz": 360
+        },
 		
         {
             "user": "Adri420",
             "link": "https://www.youtube.com/watch?v=nknW-sWVvSY",
             "percent": 78,
-            "hz": 360
-        },
-
-        {
-            "user": "benbotwyd",
-            "link": "https://www.youtube.com/watch?v=zbnAxEAwphU",
-            "percent": 76,
             "hz": 360
         },
 		
