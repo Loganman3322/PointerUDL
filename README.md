@@ -12,3 +12,11 @@ YT: Loganman3322 [GD] or @LJB2012 :)
 Mod submissions soon maybe?
 
 We get our placement info from Pointercrate, UDL, Player Personal Rankings, ILL, and THAL (The Hardest Achievements Lists)
+
+UPDATE
+
+hey yall, there is drama about the pro player SerVax, and he has said and posted HORRIBLE AND ILLEGAL CONTENT ON TWITTER. we would like to inform that we are temporarily deleting SerVax from our list.
+
+This behavior from a player that is trusted is unnacceptable, and SerVax will be banned until further notice.
+
+- Logan, List Creator
