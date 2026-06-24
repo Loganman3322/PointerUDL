@@ -246,6 +246,20 @@
             "percent": 100,
             "hz": 360
         },
+
+        {
+            "user": "Flashl3ang",
+            "link": "https://www.youtube.com/watch?v=uVCSc-mOs2k",
+            "percent": 100,
+            "hz": 360
+        },
+
+        {
+            "user": "ChopBlox",
+            "link": "https://www.youtube.com/watch?v=YM3S4PMTkS4",
+            "percent": 100,
+            "hz": 360
+        },
 		
         {
             "user": "Chiikawa",
@@ -324,12 +338,6 @@
             "hz": 360
         },
 		
-        {
-            "user": "ChopBlox",
-            "link": "https://www.youtube.com/watch?v=fnmOgbEp2Z8",
-            "percent": 65,
-            "hz": 360
-        },
 		
         {
             "user": "sykaav",
